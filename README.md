@@ -34,7 +34,7 @@ imgs = classify_all_image(images, ref_object, threshold=0.7) # list[base64 strin
 
 <br><br>
 
-##### Unclassified Images ( images )
+##### Unclassified Images ( images ) - google images (crawl)
 <img src = "https://github.com/user-attachments/assets/5c5b860e-a911-4ecb-bb91-eb6cd9252a87" width="30%" height="30%">
 
 ##### classified Images ( imgs )
